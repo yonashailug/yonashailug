@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yonashailug
-- 👀 I’m interested in Vuejs/Reactjs/Angular and Nodejs/Spring Boot
+- 👀 I’m interested in Reactjs/Vuejs/Angular and Nodejs/Spring Boot
 - 📫 How to reach me: DM me [@yonashailu](https://twitter.com/yonashailu)
 
 <!---
